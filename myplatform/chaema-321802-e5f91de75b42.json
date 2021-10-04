@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chaema-321802",
+  "private_key_id": "e5f91de75b42c33e82db40efda99ba753d87fc29",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCM205wT1e6RdIK\nexvHp22+JH8ZEJw/WJw1Rs/7qsH/qIRRuUcMztPmdHCclnlhbCEMsp90Pr4njSKF\nzskzncLTgHC0v7SiUVPoaRmcGuR3pOtPgCrLsxupdQqdmE2mFJxADGmkeamXDEeS\n/ZEKvB+zruWcb9AuiIEJUMkbe1Kk2speZ6No2JAJHXSETBEarbC73YVhnuaNtDRm\nqREpta5vqA+gMrm4EsWV6D58+uzicqEliOwizMEPh69B/q1MTojPg5J4KAr7cxNQ\nv9WAaioY+wJ/HhBVkAlItzw1PBfz2Za+3TrwG90UOAZGLKjUF4nGXwnAfEnD65SL\n54gAROPnAgMBAAECggEAB3q9t4j/B40dkiDnYLqrQSV++j2/jj2OTeXstVhj5Md1\n/0DvXOa+qcYVFLuIxnuPZbU2cl3CiycbZi+Mz4jZB5ISagaj+NqIshainX9wEkpX\nlGkh3J8uINluLuAff2oowd3m3iz3rGWih1OfmApVRJ1M4/mr/EyTTYNUqnjp8ob3\ne9LUrSb1OQHgNa1VCKX+YD3lbdep5Z1DL5wNNAowgZgZw9n9yGLG5yOsQvwl4zMP\nSGTn7Yrnyf9FyEgKxeZBPCFzln/uIa/mVnChw9MNf+GFxcI1BwKVBibuVlV6wVq7\nXRqC9Kfrdgl8tiNJu3htvJOCsjmQICa+3s4MFUAPgQKBgQDCcWwvzeySyciQpPmL\nh1XS7FlthcjznhRSHe4hSOXQJJ6aTk40KFtlhiMQ5+MoHdZyKG0O1NAsiPynTdNS\nETyrggnfUGzZnCqpkW7y0z6xt1iEVdGb32febyR7daZ7uTrzfhSKNWXaWV7hcxmR\nSPVl/OBPC7r/1iRnhOH/blGfvwKBgQC5cv3E0flZpTWcG4fgWp+8ZUVLX0lQtWyg\nA1e2yVEBUzs78bCc7T9fVQZAg2hUaVJwDwtc1IvIirtOBM68fFF8nLneHqUT0/Oq\nmueHIVbsGeiyl1nJHejmh3rh5+kZE/aRBYBMvp52OjChBtz1gGGcEAYjoG65nmms\n6dK1pHpF2QKBgEethiMtNxt5dQ0VM8SitBmX9PNx0P01deo7jFAKzmTnSuw5F40U\nn3SSeRS/VrawISBeFK3V95OjP/fwsYjcP9A9lKQUwruJXRS7PvoWs1LR8rh95lIe\njeyqbflxClkrlDa0cJ/uRUizj01un6s2CPh6urmI6ntrFmpuytzdbwuDAoGAGi7f\nH3vZ7ctCn3DPpWCGLw5JU1P3wPpshMcUCk2wLzS2J0d/fRiOGwKhKFilUU2xgvrM\nyuWDeuQDgAdzvO78flCOeYrwGbWSMKNATzbo09rwnM57scaUTIASXHTm11CXPnB9\nZdh//QdIOGQErHDc1zD3/O241GJGX1CAHH9FeDkCgYEApZDCopkwVh0P55y3Atyg\n8fx7WRY1Cp7Ld8Dy9AgoIcL7zgPQd32YST3cRuD5WO8Eq3hlrpeYfohYB46f7r+6\n9NYVS/ZhB4TwoYAsGrPJWlPmWHDVcuF5oB8ZOE2PtCkaYrasljUQBf+6mU8lM/8C\nGsm0Gg9Sr229u1FOJhbYu0A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage@chaema-321802.iam.gserviceaccount.com",
+  "client_id": "117299159920440587124",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage%40chaema-321802.iam.gserviceaccount.com"
+}

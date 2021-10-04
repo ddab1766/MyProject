@@ -1,0 +1,4 @@
+platform-venv/
+*.pyc
+myplatform/company_profile/__pycache__/admin.cpython-37.pyc
+myplatform/company_profile/__pycache__/models.cpython-37.pyc
